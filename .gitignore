@@ -1,0 +1,4 @@
+# Cache/venv folders
+
+.venv/
+__pycache__
